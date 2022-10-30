@@ -1,0 +1,11 @@
+E:\Repos\TodoSolution\DatabaseTest\bin\Debug\netcoreapp2.0\DatabaseTest.deps.json
+E:\Repos\TodoSolution\DatabaseTest\bin\Debug\netcoreapp2.0\DatabaseTest.runtimeconfig.json
+E:\Repos\TodoSolution\DatabaseTest\bin\Debug\netcoreapp2.0\DatabaseTest.runtimeconfig.dev.json
+E:\Repos\TodoSolution\DatabaseTest\bin\Debug\netcoreapp2.0\DatabaseTest.dll
+E:\Repos\TodoSolution\DatabaseTest\bin\Debug\netcoreapp2.0\DatabaseTest.pdb
+E:\Repos\TodoSolution\DatabaseTest\obj\Debug\netcoreapp2.0\DatabaseTest.csproj.CoreCompileInputs.cache
+E:\Repos\TodoSolution\DatabaseTest\obj\Debug\netcoreapp2.0\DatabaseTest.AssemblyInfoInputs.cache
+E:\Repos\TodoSolution\DatabaseTest\obj\Debug\netcoreapp2.0\DatabaseTest.AssemblyInfo.cs
+E:\Repos\TodoSolution\DatabaseTest\obj\Debug\netcoreapp2.0\DatabaseTest.dll
+E:\Repos\TodoSolution\DatabaseTest\obj\Debug\netcoreapp2.0\DatabaseTest.pdb
+E:\Repos\TodoSolution\DatabaseTest\obj\Debug\netcoreapp2.0\DatabaseTest.csprojResolveAssemblyReference.cache

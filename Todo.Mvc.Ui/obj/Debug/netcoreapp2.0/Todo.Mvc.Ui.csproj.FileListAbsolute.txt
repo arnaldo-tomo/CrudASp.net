@@ -1,0 +1,28 @@
+E:\Repos\TodoSolution\Todo.Mvc.Ui\bin\Debug\netcoreapp2.0\Todo.Mvc.Ui.deps.json
+E:\Repos\TodoSolution\Todo.Mvc.Ui\bin\Debug\netcoreapp2.0\Todo.Mvc.Ui.runtimeconfig.json
+E:\Repos\TodoSolution\Todo.Mvc.Ui\bin\Debug\netcoreapp2.0\Todo.Mvc.Ui.runtimeconfig.dev.json
+E:\Repos\TodoSolution\Todo.Mvc.Ui\bin\Debug\netcoreapp2.0\Todo.Mvc.Ui.dll
+E:\Repos\TodoSolution\Todo.Mvc.Ui\bin\Debug\netcoreapp2.0\Todo.Mvc.Ui.pdb
+E:\Repos\TodoSolution\Todo.Mvc.Ui\obj\Debug\netcoreapp2.0\Todo.Mvc.Ui.csproj.CoreCompileInputs.cache
+E:\Repos\TodoSolution\Todo.Mvc.Ui\obj\Debug\netcoreapp2.0\Todo.Mvc.Ui.AssemblyInfoInputs.cache
+E:\Repos\TodoSolution\Todo.Mvc.Ui\obj\Debug\netcoreapp2.0\Todo.Mvc.Ui.AssemblyInfo.cs
+E:\Repos\TodoSolution\Todo.Mvc.Ui\obj\Debug\netcoreapp2.0\Todo.Mvc.Ui.dll
+E:\Repos\TodoSolution\Todo.Mvc.Ui\obj\Debug\netcoreapp2.0\Todo.Mvc.Ui.pdb
+E:\Repos\TodoSolution\Todo.Mvc.Ui\obj\Debug\netcoreapp2.0\Todo.Mvc.Ui.csprojResolveAssemblyReference.cache
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\Todo.Mvc.Ui\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\Todo.Mvc.Ui\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\Todo.Mvc.Ui\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\Todo.Mvc.Ui\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\Todo.Mvc.Ui\bin\Debug\netcoreapp2.0\Todo.Mvc.Ui.deps.json
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\Todo.Mvc.Ui\bin\Debug\netcoreapp2.0\Todo.Mvc.Ui.runtimeconfig.json
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\Todo.Mvc.Ui\bin\Debug\netcoreapp2.0\Todo.Mvc.Ui.runtimeconfig.dev.json
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\Todo.Mvc.Ui\bin\Debug\netcoreapp2.0\Todo.Mvc.Ui.dll
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\Todo.Mvc.Ui\bin\Debug\netcoreapp2.0\Todo.Mvc.Ui.pdb
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\Todo.Mvc.Ui\obj\Debug\netcoreapp2.0\Todo.Mvc.Ui.csproj.AssemblyReference.cache
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\Todo.Mvc.Ui\obj\Debug\netcoreapp2.0\Todo.Mvc.Ui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\Todo.Mvc.Ui\obj\Debug\netcoreapp2.0\Todo.Mvc.Ui.AssemblyInfoInputs.cache
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\Todo.Mvc.Ui\obj\Debug\netcoreapp2.0\Todo.Mvc.Ui.AssemblyInfo.cs
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\Todo.Mvc.Ui\obj\Debug\netcoreapp2.0\Todo.Mvc.Ui.csproj.CoreCompileInputs.cache
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\Todo.Mvc.Ui\obj\Debug\netcoreapp2.0\Todo.Mvc.Ui.dll
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\Todo.Mvc.Ui\obj\Debug\netcoreapp2.0\Todo.Mvc.Ui.pdb
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\Todo.Mvc.Ui\obj\Debug\netcoreapp2.0\Todo.Mvc.Ui.genruntimeconfig.cache
