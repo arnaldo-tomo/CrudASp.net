@@ -9,3 +9,16 @@ E:\Repos\TodoSolution\DatabaseTest\obj\Debug\netcoreapp2.0\DatabaseTest.Assembly
 E:\Repos\TodoSolution\DatabaseTest\obj\Debug\netcoreapp2.0\DatabaseTest.dll
 E:\Repos\TodoSolution\DatabaseTest\obj\Debug\netcoreapp2.0\DatabaseTest.pdb
 E:\Repos\TodoSolution\DatabaseTest\obj\Debug\netcoreapp2.0\DatabaseTest.csprojResolveAssemblyReference.cache
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\CrudASp.net\DatabaseTest\bin\Debug\netcoreapp2.0\DatabaseTest.deps.json
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\CrudASp.net\DatabaseTest\bin\Debug\netcoreapp2.0\DatabaseTest.runtimeconfig.json
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\CrudASp.net\DatabaseTest\bin\Debug\netcoreapp2.0\DatabaseTest.runtimeconfig.dev.json
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\CrudASp.net\DatabaseTest\bin\Debug\netcoreapp2.0\DatabaseTest.dll
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\CrudASp.net\DatabaseTest\bin\Debug\netcoreapp2.0\DatabaseTest.pdb
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\CrudASp.net\DatabaseTest\obj\Debug\netcoreapp2.0\DatabaseTest.csproj.AssemblyReference.cache
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\CrudASp.net\DatabaseTest\obj\Debug\netcoreapp2.0\DatabaseTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\CrudASp.net\DatabaseTest\obj\Debug\netcoreapp2.0\DatabaseTest.AssemblyInfoInputs.cache
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\CrudASp.net\DatabaseTest\obj\Debug\netcoreapp2.0\DatabaseTest.AssemblyInfo.cs
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\CrudASp.net\DatabaseTest\obj\Debug\netcoreapp2.0\DatabaseTest.csproj.CoreCompileInputs.cache
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\CrudASp.net\DatabaseTest\obj\Debug\netcoreapp2.0\DatabaseTest.dll
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\CrudASp.net\DatabaseTest\obj\Debug\netcoreapp2.0\DatabaseTest.pdb
+C:\Users\Arnaldo Tomo\Documents\Visual Studio 2012\Projects\TodoMvcSolution-master\CrudASp.net\DatabaseTest\obj\Debug\netcoreapp2.0\DatabaseTest.genruntimeconfig.cache

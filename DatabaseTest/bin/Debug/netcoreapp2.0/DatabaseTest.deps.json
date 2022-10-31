@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "93f27523cb530fda975da9192635ded6fd13fdd5"
+    "signature": ""
   },
   "compilationOptions": {},
   "targets": {
@@ -45,7 +45,10 @@
           "System.Xml.XmlDocument": "4.3.0"
         },
         "runtime": {
-          "lib/netstandard1.3/Newtonsoft.Json.dll": {}
+          "lib/netstandard1.3/Newtonsoft.Json.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.3.21018"
+          }
         }
       },
       "SmartIT.DebugTaceHelper/1.0.1": {
@@ -53,7 +56,10 @@
           "Newtonsoft.Json": "10.0.3"
         },
         "runtime": {
-          "lib/netcoreapp2.0/SmartIT.DebugHelper.dll": {}
+          "lib/netcoreapp2.0/SmartIT.DebugHelper.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
         }
       },
       "SmartIT.Employee.MockDB/1.0.4": {
@@ -61,7 +67,10 @@
           "System.ComponentModel.Annotations": "4.4.0"
         },
         "runtime": {
-          "lib/netstandard2.0/SmartIT.Employee.MockDB.dll": {}
+          "lib/netstandard2.0/SmartIT.Employee.MockDB.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
         }
       },
       "System.Collections/4.3.0": {
@@ -160,16 +169,6 @@
           "System.Runtime": "4.3.0",
           "System.Runtime.Extensions": "4.3.0",
           "System.Runtime.InteropServices": "4.3.0"
-        },
-        "runtimeTargets": {
-          "runtime/unix/lib/_._": {
-            "rid": "unix",
-            "assetType": "runtime"
-          },
-          "runtime/win/lib/_._": {
-            "rid": "win",
-            "assetType": "runtime"
-          }
         }
       },
       "System.IO/4.3.0": {
@@ -430,21 +429,21 @@
     "Newtonsoft.Json/10.0.3": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-wBM7i7i3U2WX0ecor4zdVGvgrwFUjuigBoHKiL+nH39fCOpCPjBY3RDqJM32edvdyTAVdjzlccHsg41+/+zpSA==",
+      "sha512": "sha512-hSXaFmh7hNCuEoC4XNY5DrRkLDzYHqPx/Ik23R4J86Z7PE/Y6YidhG602dFVdLBRSdG6xp9NabH3dXpcoxWvww==",
       "path": "newtonsoft.json/10.0.3",
       "hashPath": "newtonsoft.json.10.0.3.nupkg.sha512"
     },
     "SmartIT.DebugTaceHelper/1.0.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ij9ytVKMYErQnJCiDmddiFBqEcbS7MhZbZJw1ODrRavf2z3Wip9gsIbO910q63w3QPBaRo7k8NDOaGfamrm1kA==",
+      "sha512": "sha512-Go2Yg7rmfnBwwOxWkEB8EisOn012K42iwoc+lmjaqlizZ0woPcChcQhlsGymu7wLqG00oBDu81jrdYXtZDbxEg==",
       "path": "smartit.debugtacehelper/1.0.1",
       "hashPath": "smartit.debugtacehelper.1.0.1.nupkg.sha512"
     },
     "SmartIT.Employee.MockDB/1.0.4": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-2yAECS+QPcnaWm25Lu08hzUDnKKY97cpmoBCf4yjXxSqIkiht4wm2rvhCNyub4hCTy9E6kf4mM8RvxY8wbplhg==",
+      "sha512": "sha512-E9/+DVueF3R5OtnCJf0G67RE4bclp7H5lct5tB78A4s12QDUDqxCEKRfjLoWp3FDPQp3b1tN7SD3ohxpvaZ0qg==",
       "path": "smartit.employee.mockdb/1.0.4",
       "hashPath": "smartit.employee.mockdb.1.0.4.nupkg.sha512"
     },

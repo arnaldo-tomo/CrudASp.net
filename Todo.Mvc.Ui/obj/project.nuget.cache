@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uzjaldL+x78yGZaa1/AuVVSj14KVM2BZOr4MPWqIEgQLImdescXIzNeFaPBSX4PWDNabkcfnWYS4bSVWtfPWWw==",
+  "dgSpecHash": "QgAtBED3K6oAlWubtaFI/GceSHH58hnUHhccikBrzsv+KPqQQxjQUsggOwxd8cpkQU4SXHM2+luuvAR7LlMEig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Arnaldo Tomo\\Documents\\Visual Studio 2012\\Projects\\TodoMvcSolution-master\\Todo.Mvc.Ui\\Todo.Mvc.Ui.csproj",
+  "projectFilePath": "C:\\Users\\Arnaldo Tomo\\Documents\\Visual Studio 2012\\Projects\\TodoMvcSolution-master\\CrudASp.net\\Todo.Mvc.Ui\\Todo.Mvc.Ui.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arnaldo Tomo\\.nuget\\packages\\libuv\\1.10.0\\libuv.1.10.0.nupkg.sha512",
     "C:\\Users\\Arnaldo Tomo\\.nuget\\packages\\microsoft.applicationinsights\\2.4.0\\microsoft.applicationinsights.2.4.0.nupkg.sha512",

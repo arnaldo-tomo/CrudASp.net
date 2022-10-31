@@ -4053,11 +4053,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arnaldo Tomo\\Documents\\Visual Studio 2012\\Projects\\TodoMvcSolution-master\\DatabaseTest\\DatabaseTest.csproj",
+      "projectUniqueName": "C:\\Users\\Arnaldo Tomo\\Documents\\Visual Studio 2012\\Projects\\TodoMvcSolution-master\\CrudASp.net\\DatabaseTest\\DatabaseTest.csproj",
       "projectName": "DatabaseTest",
-      "projectPath": "C:\\Users\\Arnaldo Tomo\\Documents\\Visual Studio 2012\\Projects\\TodoMvcSolution-master\\DatabaseTest\\DatabaseTest.csproj",
+      "projectPath": "C:\\Users\\Arnaldo Tomo\\Documents\\Visual Studio 2012\\Projects\\TodoMvcSolution-master\\CrudASp.net\\DatabaseTest\\DatabaseTest.csproj",
       "packagesPath": "C:\\Users\\Arnaldo Tomo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arnaldo Tomo\\Documents\\Visual Studio 2012\\Projects\\TodoMvcSolution-master\\DatabaseTest\\obj\\",
+      "outputPath": "C:\\Users\\Arnaldo Tomo\\Documents\\Visual Studio 2012\\Projects\\TodoMvcSolution-master\\CrudASp.net\\DatabaseTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
